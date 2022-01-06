@@ -2,8 +2,6 @@ body {
   font-family: "Merriweather", serif;
   margin: 0;
   background-color: #e2e1dc;
-  /* background-color: #fefadb; */
-  /* background-image: linear-gradient(to top, #c0beb1, #888885); */
 }
 h1 {
   font-size: 50px;
@@ -16,9 +14,7 @@ footer {
   background-color: black;
   color: white;
   width: 100%;
-  /* margin: 0; */
   padding: 10px 0 10px 10px;
-  /* height: auto; */
 }
 footer h3 {
   font-family: "Lobster", cursive;
